@@ -24,6 +24,11 @@ Built dashboards to track revenue, engagement, and performance trends using SQL 
 
 Customer grouping analysis using SQL and Python to identify high-value segments.
 
+### Revenue Analytics Warehouse (dbt + DuckDB)
+[View Project](./revenue-analytics-warehouse)
+
+End-to-end analytics engineering project: raw CSV → staging → star schema marts, dbt tests, and cohort retention modeling.
+
 ### Snowflake Data Pipeline
 Designed ETL pipelines to clean, transform, and load raw data into Snowflake for analytics.
 
