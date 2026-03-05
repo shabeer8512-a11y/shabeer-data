@@ -1,6 +1,7 @@
 # Mohamed Shabeer – Data Analytics Portfolio
 
-Portfolio of SQL, Snowflake, and analytics projects focused on turning data into actionable business insights.
+Portfolio of analytics engineering and data analytics projects focused on turning raw data into actionable insights.
+
 Tools: SQL • Snowflake • dbt • Python • DuckDB • Tableau • BigQuery
 
 ## Skills
@@ -31,6 +32,8 @@ SQL analysis and dashboard modeling to track revenue performance, customer count
 Customer segmentation using purchase frequency and spend patterns to identify high-value customer groups.
 
 ### Snowflake Data Pipeline
+[View Project](./snowflake-data-pipeline)
+
 Example ETL pipeline design for ingesting, transforming, and modeling data in Snowflake environments.
 
 ### Retail Sales Analysis
