@@ -1,0 +1,7 @@
+revenue_analytics_warehouse:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: ../duckdb/revenue.duckdb
+      threads: 4
